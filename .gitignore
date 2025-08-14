@@ -19,6 +19,7 @@ env.bak/
 # Data files
 data/
 cell-data/
+analyzed-cell-data/
 reference-notebooks/
 
 # VS Code settings
