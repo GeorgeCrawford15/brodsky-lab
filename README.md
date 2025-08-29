@@ -1,6 +1,10 @@
 # brodsky-lab
 This repository stores all of my code and potentially other important files/data from my internship at the Brodsky Lab at UCL.
 
+**Note:** This repository has been archived. All active projects have been split into separate repositories:
+- [p115 Perinuclear Mean Intensity Analysis](https://github.com/GeorgeCrawford15/p115-perinuclear-mean-intensity)
+- [CHC and CLC Conservation in Yeast](https://github.com/GeorgeCrawford15/yeast-clathrin-conservation)
+
 ## Projects include:
 - Yeast clathrin light chain and heavy chain sequence cleaning, ordering, and splitting into clades to then visualize each clade's conservation of specific important residues as heatmap graphs, created by compiling data from the grouped sequences via matrices.
 - Distribution of residues in the yeast CHC at sites 1326 and 1415 of the human CHC17
