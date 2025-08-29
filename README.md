@@ -1,5 +1,5 @@
 # brodsky-lab
-This repository stores all of my code and potentially other important files/data from my internship at the Brodsky Lab at UCL.
+This repository stores all of my code and potentially other important files from my internship at the Brodsky Lab at UCL.
 
 **Note:** This repository has been archived. All active projects have been split into separate repositories:
 - [p115 Perinuclear Mean Intensity Analysis](https://github.com/GeorgeCrawford15/p115-perinuclear-mean-intensity)
